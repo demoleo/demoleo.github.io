@@ -1,3 +1,6 @@
+# do not include protocol, just the domain
+enforce_ssl: worz.net
+
 markdown: kramdown
 highlighter: false
 plugins: ./_plugins
@@ -8,7 +11,7 @@ safe: false
 title: 浪里个浪
 subTitle: Just another blog.
 description: 
-url: http://worz.net
+url: https://worz.net
 feed: /atom.xml
 
 #菜单配置
