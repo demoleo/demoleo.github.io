@@ -1,17 +1,11 @@
 ---
 title: 机器学习/数据科学公开课推荐(转)
-author: c cm
+author: 西门熊二
 layout: post
 permalink: /machine-learning-data-science-mooc-course-recommendation/
-post_views_count:
-  - 0
-duoshuo_thread_id:
-  - 1235579490248163344
 categories:
-  - 机器学习
+  - 程序设计
 tags:
-  - 公开课
-  - 资源
 ---
 Coursera上Johns Hopkins University前两日发布了数据科学(Data Science)专业系列公开课，顺风推荐一些别的机器学习/数据科学相关MOOC或者其他来源的课程以供大家参考。<!--more-->
 

@@ -1,16 +1,11 @@
 ---
 title: 动态局部回归过程（转）
-author: c cm
+author: 西门熊二
 layout: post
 permalink: /loess-in-gif/
-duoshuo_thread_id:
-  - 1235579490248163348
-post_views_count:
-  - 0
 categories:
-  - 数据可视化
+  - 程序设计
 tags:
-  - 回归问题
 ---
 局部回归Loess作为简单线性回归和最近邻KNN思想结合的产物，不仅直观，而且比较灵活。在数据探索过程中，对二元散点图做局部回归是基本步骤。
 

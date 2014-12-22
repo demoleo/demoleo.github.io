@@ -1,15 +1,10 @@
 ---
 title: R语言中的色彩和调色板(转)
-author: c cm
+author: 西门熊二
 layout: post
 permalink: /colors-and-palettes-in-r-language/
-duoshuo_thread_id:
-  - 1235579490248163347
-post_views_count:
-  - 0
 categories:
-  - R语言
-  - 数据可视化
+  - 程序设计
 ---
 可视化数据时，色彩往往是最欠考虑的因素。的确，在一个图中，数据的选择和图表类型的确定才是最重要，最需要确定的因素。但是，适当的选择颜色不仅仅能使数据图的阅读者赏心悦目，而且有助于图中数据关系的呈现，使得整个图表更有说服力。这篇文章将简单介绍R语言中的色彩和调色板相关package和函数。<!--more-->
 

@@ -1,16 +1,11 @@
 ---
 title: 数据集推荐(转)
-author: c cm
+author: 西门熊二
 layout: post
 permalink: /datasets-resource-recommendation/
-post_views_count:
-  - 1
-duoshuo_thread_id:
-  - 1235579490248163345
 categories:
-  - 大数据
+  - 程序设计
 tags:
-  - 资源
 ---
 政府数据  
 美国 <a href="http://www.data.gov/" target="_blank">Data.gov</a>  

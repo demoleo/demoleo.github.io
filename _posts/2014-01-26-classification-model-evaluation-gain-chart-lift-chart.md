@@ -1,18 +1,11 @@
 ---
 title: 分类器评价与在R中的实现：收益图与提升图(转)
-author: c cm
+author: 西门熊二
 layout: post
 permalink: /classification-model-evaluation-gain-chart-lift-chart/
-duoshuo_thread_id:
-  - 1235579490248163339
-post_views_count:
-  - 0
 categories:
-  - R语言
-  - 机器学习
+  - 程序设计
 tags:
-  - 分类器
-  - 模型评价
 ---
 分类模型评价一般有以下几种方法：混淆矩阵(Confusion Matrix)、收益图(Gain Chart)、提升图(Lift Chart)、KS图(KS Chart)、接受者操作特性曲线(ROC Chart)。“分类模型评价与在R中的实现”系列中将逐个介绍。
 

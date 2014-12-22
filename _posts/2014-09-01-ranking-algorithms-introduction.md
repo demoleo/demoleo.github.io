@@ -1,9 +1,9 @@
 ---
 title: 排名算法简介(转）
-author: c cm
+author: 西门熊二
 layout: post
 permalink: /ranking_algorithms_introduction/
-categories: 机器学习
+categories: 程序设计
 tags:
 description: 
 ---
