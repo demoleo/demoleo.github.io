@@ -25,9 +25,9 @@ nav:
     url: /archives.html
     icon: icon-reorder
     class: none
-  - text: 我的推特
-    url: https://twitter.com/haibin
-    icon: icon-twitter
+  - text: 关于我
+    url: /contact.html
+    icon: icon-envelope-alt
     class: none
   - text: 友情链接
     url: /links.html
@@ -56,11 +56,11 @@ page:
   - text: 文章归档
     url: /archives.html
     last: true
-  # - text: 喜欢的网站
-  #   url: /links.html
-  #   last: true
   - text: 友情链接
     url: /links.html
+    last: true
+  - text: 关于我
+    url: /contact.html
     last: true
 
 #评论信息
