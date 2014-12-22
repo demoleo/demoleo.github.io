@@ -8,11 +8,12 @@ paginate: 10
 safe: false
 
 #站点基础配置
+name: 浪里个浪
 title: 浪里个浪
 subTitle: Just another blog.
-description: 
+description: blog, life, web, family, music, football, guitar, envrionment
 url: https://worz.net
-feed: /atom.xml
+feed: /feed.xml
 
 #菜单配置
 nav:
@@ -20,18 +21,23 @@ nav:
     url: /index.html
     icon: icon-home
     class: home
-  - text: 文章归档
+  - text: 文章列表
     url: /archives.html
     icon: icon-reorder
     class: none
   - text: 我的推特
     url: https://twitter.com/haibin
-    icon: icon-twitter-sign
+    icon: icon-twitter
     class: none
   - text: 友情链接
     url: /links.html
     icon: icon-link
     class: none
+  - text: 订阅本站
+    url: /feed.xml
+    icon: icon-rss
+    class: none
+
 
   # - text: 关于我
   #   url: /contact.html
