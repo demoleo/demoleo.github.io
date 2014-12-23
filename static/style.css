@@ -427,7 +427,7 @@ h1, h2, h3, h4, h5, h6{ font-weight: 500; font-weight: 700\9; color:#333; }
 
 .lotus h1, .lotus h2, .lotus h3, .lotus h4, .lotus h5, .lotus h6,
 .lotus-h1, .lotus-h2, .lotus-h3, .lotus-h4, .lotus-h5, .lotus-h6 { margin-bottom: 0.4em; line-height: 1.5;}
-.lotus h1, .lotus-h1 { font-size: 1.8em; font-weight: bold; }
+.lotus h1, .lotus-h1 { font-size: 1.8em; }
 .lotus h2, .lotus-h2 { font-size: 1.6em; }
 .lotus h3, .lotus-h3 { font-size: 1.4em; border-bottom: 1px dotted #d8d8d8; margin-top: 1.4em;}
 .index h3 { margin-top: 0; }
