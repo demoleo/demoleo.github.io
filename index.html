@@ -14,6 +14,7 @@ keywords:
 {% for rpost in paginator.posts limit:1 %}
     <h3><a href="{{ rpost.url }}" title="{{ rpost.title }}" rel="bookmark">{{ rpost.title }}</a></h3>
     <p itemprop="description">{{ rpost.description }}</p>
+    <p class="lotus-meta"><time class="date" pubdate="{{ page.date  | date: "%B %e, %Y" }}">{{ page.date | date: "%B %e, %Y" }}</time></p>
 {% endfor %}
 </article>
 <section class="lotus-double fn-clear">

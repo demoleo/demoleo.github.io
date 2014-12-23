@@ -1,9 +1,14 @@
 # do not include protocol, just the domain
 enforce_ssl: worz.net
+# Where things are
+source:       .
+destination:  ./_site
+plugins:      ./_plugins
+layouts:      ./_layouts
 
-markdown: kramdown
-highlighter: false
-plugins: ./_plugins
+# Conversion
+markdown:     kramdown
+highlighter:  pygments
 paginate: 10
 safe: false
 
