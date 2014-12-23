@@ -797,7 +797,7 @@ h1, h2, h3, h4, h5, h6{ font-weight: 500; font-weight: 700\9; color:#333; }
 		border-left: none;
 		border-bottom: 1px solid #212121;
 	}
-	.lotus-nav ul { width: 320px; margin: 0 auto; }
+	.lotus-nav ul { width: 320px; margin: 0 20px; }
 	.lotus-nav ul li { float: left; width: 60px; line-height: 42px; border-top: 0; }
 	.lotus-nav ul .home { margin-bottom: 0 ;}
 	.lotus-double .article-first {
