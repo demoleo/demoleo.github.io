@@ -15,7 +15,7 @@ safe: false
 #站点基础配置
 name: 浪打浪
 title: 浪打浪
-subTitle: Just another blog.
+subTitle: Just another blog by 老虎油
 description: blog, life, web, family, music, football, guitar, envrionment
 url: https://worz.net
 feed: /feed.xml
@@ -77,4 +77,4 @@ duoshuo:
   id: worz
 
 author:
-  name: 西门熊二
+  name: 老虎油
