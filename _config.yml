@@ -70,10 +70,10 @@ page:
 
 #评论信息
 disqus:
-  config: false
-  id: m
-duoshuo:
   config: true
+  id: worz
+duoshuo:
+  config: false
   id: worz
 
 author:
