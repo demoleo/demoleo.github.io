@@ -70,7 +70,7 @@ page:
 
 #评论信息
 disqus:
-  config: true
+  config: false
   id: worz
 duoshuo:
   config: false
